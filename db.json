@@ -147,6 +147,7 @@
   "flat": [
     {
       "id": "1668222376994mob",
+      "type":"villas",
       "name": "Avishkar Infra presents 2 Bhk Premium",
       "price": 3800000,
       "city": "Kolkata",
@@ -155,6 +156,7 @@
     },
     {
       "id": "1668222487807flat",
+      "type":"villas",
       "name": " 3 BHK VILLA SALE -VALLATHOL SEAPOT 1.25 KM",
       "price": 7400000,
       "city": "kerla",
@@ -163,6 +165,7 @@
     },
     {
       "id": "1668223585347flat",
+      "type":"villas",
       "name": "Ongoing Apartment project at Vattiyoorkavu having Premium 3 BHK flats.",
       "price": 6500000,
       "city": "Vattiyoorkavu, Thiruvananthapuram, Kerala",
@@ -171,6 +174,7 @@
     },
     {
       "id": "1668223700773flat",
+      "type":"farm",
       "name": "Farm Houses",
       "price": 6000000,
       "city": "Banglore",
@@ -179,6 +183,7 @@
     },
     {
       "id": "1668223773233flat",
+      "type":"farm",
       "name": "House is selling and beautiful house",
       "price": 3200000,
       "city": "Haryana",
@@ -187,6 +192,7 @@
     },
     {
       "id": "1668224010450flat",
+      "type":"villas",
       "name": "Houses & Villas",
       "price": 8600000,
       "city": " Newly built house near Kovoor",
@@ -195,6 +201,7 @@
     },
     {
       "id": "1668224133720flat",
+      "type":"apartment",
       "name": "Apartments",
       "price": 2050000,
       "city": "Punjab",
@@ -203,6 +210,7 @@
     },
     {
       "id": "1668224246908flat",
+      "type":"builder",
       "name": "Houses & Villas",
       "price": 6800000,
       "city": "karnatka",
@@ -211,6 +219,7 @@
     },
     {
       "id": "1668224333179flat",
+      "type":"builder",
       "name": "Houses & Villas",
       "price": 6800000,
       "city": "kerla,parakodu",
@@ -219,6 +228,7 @@
     },
     {
       "id": "1668224417541flat",
+      "type":"apartment",
       "name": "Kakkanad Kizhakkambalam 4 bhk independent Villa",
       "price": 7300000,
       "city": "chandigrah",
@@ -227,6 +237,7 @@
     },
     {
       "id": "1668224568686flat",
+      "type":"apartment",
       "name": "Houses & Villas",
       "price": 8500000,
       "city": "Delhi",
@@ -236,6 +247,7 @@
     {
       "id": "1668224731591flat",
       "name": "Apartments",
+      "type":"farm",
       "price": 3090000,
       "city": "1 BHK @ STERLING HEIGHTS NEAR VASAI EAST",
       "description": "SHANTEE HOUSING luxurious project - STERLING HEIGHTS @ Yashwant Smart City, Gokhiware, Vasai (E).  95% work completed. Possession shortly.",
@@ -243,6 +255,7 @@
     },
     {
       "id": "1668224731591flat",
+      "type":"apartment",
       "name": "Apartments",
       "price": 400000,
       "city": "1 BHK @ STERLING HEIGHTS NEAR VASAI EAST",
