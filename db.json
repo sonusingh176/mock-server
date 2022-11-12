@@ -143,5 +143,103 @@
         "description": "Redmi note 11 5g",
         "image": "https://apollo-singapore.akamaized.net/v1/files/yy7gd0ek0ryn3-IN/image;s=200x400;q=60"
       }
-    ]
+    ],
+  "flat": [
+    {
+      "id": "1668222376994mob",
+      "name": "Avishkar Infra presents 2 Bhk Premium",
+      "price": 3800000,
+      "city": "Kolkata",
+      "description": "Avishkar Infra presents 2 bhk available  Launching Bunglow in kolhapur booking available hurry Avishkar Infra2 Bhk available in best price contact soon Car parking available",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/y4sbew6w2r71-IN/image;s=200x400;q=60"
+    },
+    {
+      "id": "1668222487807flat",
+      "name": " 3 BHK VILLA SALE -VALLATHOL SEAPOT 1.25 KM",
+      "price": 7400000,
+      "city": "kerla",
+      "description": "Pls call or WhatsApp : Nine Eight Four Six  Zero Zero Five Three Three Three  More details about location pls call  Easy access all major area",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/yv2nia4h0h1r3-IN/image;s=200x400;q=60"
+    },
+    {
+      "id": "1668223585347flat",
+      "name": "Ongoing Apartment project at Vattiyoorkavu having Premium 3 BHK flats.",
+      "price": 6500000,
+      "city": "Vattiyoorkavu, Thiruvananthapuram, Kerala",
+      "description": "Silver Castle Winter Leaf is a new premium Apartment project at Vattiyoorkavu, Trivandrum. This RERA Approved (K-RERA/PRJ/261/2020) project offers spacious 3 BHK apartments on 11 floors.",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/56zci6nkoht71-IN/image;s=640x0;q=60"
+    },
+    {
+      "id": "1668223700773flat",
+      "name": "Farm Houses",
+      "price": 6000000,
+      "city": "Banglore",
+      "description": "Farm Houses 3 Bds - 3 Ba - 1650 ft2",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/dffaepbhs34s-IN/image;s=640x0;q=60"
+    },
+    {
+      "id": "1668223773233flat",
+      "name": "House is selling and beautiful house",
+      "price": 3200000,
+      "city": "Haryana",
+      "description": "Houses & Villas 3 Bds - 3 Ba - 1000 ft2",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/vvqloqk5igoc1-IN/image;s=640x0;q=60"
+    },
+    {
+      "id": "1668224010450flat",
+      "name": "Houses & Villas",
+      "price": 8600000,
+      "city": " Newly built house near Kovoor",
+      "description": "Houses & Villas ,Semi-Furnished",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/ubgns93z9m0c-IN/image;s=640x0;q=60"
+    },
+    {
+      "id": "1668224133720flat",
+      "name": "Apartments",
+      "price": 2050000,
+      "city": "Punjab",
+      "description": "Pay rs 2 lac & own flat in dhayri, Rera, nagarpalika, Loan Approved, immediate registration flat price starts from 20.5 lakh",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/h65ngwnb6zdg-IN/image;s=640x0;q=60"
+    },
+    {
+      "id": "1668224246908flat",
+      "name": "Houses & Villas",
+      "price": 6800000,
+      "city": "karnatka",
+      "description": "5 cents of land and 4 bhk villas/ houses  Contact: 70 // 25 //48 // 69 // 57  Proposed bus root frontage  7 kmtr to infopark  Well water available  Bank fscilites",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/zfxr1qadaan02-IN/image;s=640x0;q=60"
+    },
+    {
+      "id": "1668224333179flat",
+      "name": "Houses & Villas",
+      "price": 6800000,
+      "city": "kerla,parakodu",
+      "description": "5 cents of land and 4 bhk villas/ houses  Contact: 70 // 25 //48 // 69 // 57  Proposed bus root frontage  7 kmtr to infopark  Well water available",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/zfxr1qadaan02-IN/image;s=640x0;q=60"
+    },
+    {
+      "id": "1668224417541flat",
+      "name": "Kakkanad Kizhakkambalam 4 bhk independent Villa",
+      "price": 7300000,
+      "city": "chandigrah",
+      "description": "4 cent 4 bhk 1830 sqft independent Villa  Kakkanad Kizhakkambalam town 1.5 km  Kakkanad Infopark 8 km  5 meter wide inderlock road front",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/o8ifiz63vf9l-IN/image;s=640x0;q=60"
+    },
+    {
+      "id": "1668224568686flat",
+      "name": "Houses & Villas",
+      "price": 8500000,
+      "city": "Delhi",
+      "description": "Houses & Villas Furnished",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/li7eoa482oyd2-IN/image;s=100x200;q=60"
+    },
+    {
+      "id": "1668224731591flat",
+      "name": "Apartments",
+      "price": 3090000,
+      "city": "1 BHK @ STERLING HEIGHTS NEAR VASAI EAST",
+      "description": "SHANTEE HOUSING luxurious project - STERLING HEIGHTS @ Yashwant Smart City, Gokhiware, Vasai (E).  95% work completed. Possession shortly.",
+      "image": "https://apollo-singapore.akamaized.net/v1/files/mhrhnb5er0n62-IN/image;s=640x0;q=60"
+    }
+  ]
   }
